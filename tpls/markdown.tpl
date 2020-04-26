@@ -6,6 +6,8 @@ Commit 信息：[TPL_COMMIT_MSG]
 
 [[TPL_COMMIT_SHA]]([TPL_COMMIT_LINK])
 
+![]([TPL_STATUS_PIC])
+
 提交者：[[TPL_AUTHOR_NAME]([TPL_AUTHOR_EMAIL])](mailto:[TPL_AUTHOR_EMAIL])
 
 [查看 Commit 信息]([TPL_COMMIT_LINK])
