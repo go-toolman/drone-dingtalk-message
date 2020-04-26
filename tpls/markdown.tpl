@@ -2,7 +2,7 @@
 
 # <font color=[TPL_STATUS_COLOR]>[TPL_REPO_SHORT_NAME] 构建 [TPL_BUILD_STATUS]</font> (`耗时 [TPL_BUILD_CONSUMING]s`)
 
-Commit 信息：[TPL_COMMIT_MSG]([TPL_COMMIT_LINK])
+Commit 信息：[[TPL_COMMIT_MSG]]([TPL_COMMIT_LINK])
 
 
 ![]([TPL_STATUS_PIC])
