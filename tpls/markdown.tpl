@@ -8,7 +8,7 @@ Commit 信息：[[TPL_COMMIT_MSG]]([TPL_COMMIT_LINK])
 ![]([TPL_STATUS_PIC])
 
 提交者：[[TPL_AUTHOR_NAME]([TPL_AUTHOR_EMAIL])](mailto:[TPL_AUTHOR_EMAIL])
-![]([TPL_AUTHOR_AVATAR])
+![]([TPL_AUTHOR_AVATAR] =10x10)
 ---
 
 [查看 Commit 信息]([TPL_COMMIT_LINK]) | [查看构建信息]([TPL_BUILD_LINK])
